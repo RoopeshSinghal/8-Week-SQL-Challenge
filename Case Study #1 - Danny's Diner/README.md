@@ -68,14 +68,6 @@ Three key datasets for this case study are :
 
 - [Schema SQL - DB Fiddle](https://www.db-fiddle.com/f/4hUAAf83SKPApsRxxyK7d/5)
 
-## Contributing
+## Connect
 
-`Contributions` are always welcome !!
-
-If you would like to contribute to the project, please `fork` the repository and make a `pull request`.
-
-## Support
-
-If you have any doubts, queries or, suggestions then, please connect with me on [LinkedIn](https://www.linkedin.com/in/faizanxmulla/).
-
-Do ⭐ the repository, if it inspired you, gave you ideas of your own or helped you in any way !!
+If you have any doubts, queries or, suggestions then, please connect with me on [LinkedIn](https://www.linkedin.com/in/roopeshsinghal08/).
