@@ -1,4 +1,4 @@
-```markdown
+
 # Danny's Diner SQL Analysis
 
 ## 1. Total Amount Spent by Each Customer
@@ -176,5 +176,4 @@ INNER JOIN cte ON s.customer_id = cte.customer_id
 AND order_date <= '2021-01-31'  AND order_date >= join_date
 GROUP BY 1
 ORDER BY 1;
-```
 ```
