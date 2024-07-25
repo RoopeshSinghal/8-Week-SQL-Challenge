@@ -249,8 +249,8 @@ ORDER BY 1;
 
 ##BONUS QUES
 
-##i. Join All The Things
-##Create basic data tables that Danny and his team can use to quickly derive insights without needing to join the underlying tables using SQL. Fill Member column as 'N' if the purchase was made before becoming a member and 'Y' if the after is amde after joining the membership.
+## i. Join All The Things
+### Create basic data tables that Danny and his team can use to quickly derive insights without needing to join the underlying tables using SQL. Fill Member column as 'N' if the purchase was made before becoming a member and 'Y' if the after is amde after joining the membership.
 
 ```sql
 SELECT   
@@ -286,7 +286,7 @@ ORDER BY 1, 2;
 
 ## Rank All The Things
 
-## Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
+### Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
 
 ```sql
 WITH cte as
