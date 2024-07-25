@@ -247,7 +247,7 @@ ORDER BY 1;
 | A           | 1020            |
 | B           | 320             |
 
-##BONUS QUES
+## BONUS QUES
 
 ## i. Join All The Things
 ### Create basic data tables that Danny and his team can use to quickly derive insights without needing to join the underlying tables using SQL. Fill Member column as 'N' if the purchase was made before becoming a member and 'Y' if the after is amde after joining the membership.
